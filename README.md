@@ -20,6 +20,15 @@ Live, no-mock implementation of an AI-powered business consultation app. The bac
 - Python 3.13+
 - Node 18+ (npm)
 
+### Demo
+<img width="1913" height="920" alt="image" src="https://github.com/user-attachments/assets/948052a9-805a-4266-8590-a19cf5050f05" />
+<img width="1919" height="925" alt="image" src="https://github.com/user-attachments/assets/970da57e-fc6c-49c5-9022-2e90700073d9" />
+<img width="1915" height="913" alt="image" src="https://github.com/user-attachments/assets/55487bfb-93c5-4175-b0a0-860633084766" />
+<img width="1911" height="917" alt="image" src="https://github.com/user-attachments/assets/a02d447f-40ea-4375-88b1-2dc9a8c6ca7d" />
+<img width="1908" height="923" alt="image" src="https://github.com/user-attachments/assets/d4048f11-ef1f-4975-a3b9-9fa1a9093b31" />
+<img width="1909" height="918" alt="image" src="https://github.com/user-attachments/assets/408483bf-ef66-4458-ba54-fc3739ac7a93" />
+
+
 ### Environment variables
 Create a `.env` (backend root). Example:
 ```env
