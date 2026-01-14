@@ -1,0 +1,32 @@
+# Core LLM & LangGraph stack
+langchain>=0.3.0
+langchain-core>=0.3.0
+langgraph>=0.2.15
+langchain-groq>=0.2.0          # ← this is the important one!
+
+# Groq client (usually installed automatically by langchain-groq)
+groq>=0.11.0
+
+# Data & validation
+pydantic>=2.10.0,<3
+pydantic-settings>=2.6.0
+
+# API
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+
+# UI
+streamlit>=1.41.0
+
+# Charts
+plotly>=5.24.0
+
+# Better logs
+rich>=13.9.0
+structlog>=24.4.0
+
+# Env management
+python-dotenv>=1.0.1
+
+# PDF generation
+reportlab>=4.0.0
